@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--白色-->
+    <color name="color1_white">#ffffff</color>
+    <!--内容文本侧旁字体颜色-->
+    <color name="color2_text1">#8f9db4</color>
+    <!--蓝色-->
+    <color name="color3_blue">#3390f0</color>
+    <!--黑色-->
+    <color name="color4_black">#000000</color>
+    <!--内容文本侧旁字体颜色-->
+    <color name="color5_text2">#8f9db4</color>
+    <!--内容文本字体颜色-->
+    <color name="color6_text3">#3a4b60</color>
+    <!--主页的分割线颜色-->
+    <color name="color7_line1">#ECECEC</color>
+    <!--灰色-->
+    <color name="color8_grey">#eff1f6</color>
+    <!--灰色2-->
+    <color name="color9_grey2">#999999</color>
+    <!--绿色-->
+    <color name="color10_green">#5AAE51</color>
+    <!--红色-->
+    <color name="color11_red">#ff0008</color>
+    <!--黑色30%透明-->
+    <color name="color12_black2">#4c000000</color>
+    <!--纯黑色-->
+    <color name="color13_black3">#000000</color>
+    <!--认证页面背景色-->
+    <color name="color14_transparent">#00000000</color>
+    <!--分割线颜色-->
+    <color name="color15_line2">#dddddd</color>
+    <!--选中list的颜色-->
+    <color name="color16_list_selected">#efeef2</color>
+    <!--驱动颜色-->
+    <color name="color17_divider_color">#e5e7ed</color>
+    <!--提交按钮颜色-->
+    <color name="color18_make_coll">#ff7d30</color>
+    <!--分割线颜色-->
+    <color name="color19_line3">#C8C9CA</color>
+    <!--ccccc-->
+    <color name="color20_c">#cccccc</color>
+    <!--设备连接成功字体显示颜色-->
+    <color name="color21_connected_green">#69BB64</color>
+    <!--蓝色-->
+    <color name="color22_blue2">#5bd6ff</color>
+    <!--aaaaa-->
+    <color name="color23_a">#aaaaaa</color>
+    <!--提示（hint）文本字体颜色-->
+    <color name="color24_hint">#d3d5d9</color>
+    <!--粉色-->
+    <color name="color25_pink">#FF73FC</color>
+    <!--金黄色-->
+    <color name="color26_yellow">#FFC919</color>
+</resources>

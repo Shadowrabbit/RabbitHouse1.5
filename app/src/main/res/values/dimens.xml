@@ -1,0 +1,119 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--title bar-->
+    <dimen name="title_bar_height">48dp</dimen>
+
+    <!--margin type -->
+    <dimen name="thin_margin">4dp</dimen>
+    <dimen name="thick_margin">8dp</dimen>
+    <dimen name="mid_margin">12dp</dimen>
+
+    <!--padding-->
+    <dimen name="thin_padding">4dp</dimen>
+    <dimen name="thick_padding">8dp</dimen>
+    <dimen name="mid_padding">12dp</dimen>
+
+    <!--text size-->
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+
+    <dimen name="text_tiny">12sp</dimen>
+    <dimen name="text_mini">10sp</dimen>
+    <dimen name="text_big">19sp</dimen>
+    <dimen name="text_large">24sp</dimen>
+
+    <!--used in popupmenu-->
+    <dimen name="popupmenu_item_padding">8dp</dimen>
+    <dimen name="popupmenu_item_height">80dp</dimen>
+    <dimen name="popupmenu_item_image_size">48dp</dimen>
+    <dimen name="item_border_width">1dp</dimen>
+    <dimen name="item_border_padding">2dp</dimen>
+
+
+    <dimen name="popupmenu_createlib_item_image_size">37dp</dimen>
+    <dimen name="popupmenu_createlib_item_height">52dp</dimen>
+
+    <!--used in camera  -->
+    <dimen name="focus_rect_width">100dp</dimen>
+    <dimen name="focus_rect_height">100dp</dimen>
+    <dimen name="view_pager_margin">80dp</dimen>
+
+    <dimen name="gallery_percent_tv_padding_top">120dp</dimen>
+    <dimen name="gallery_percent_tv_padding_left">10dp</dimen>
+    <dimen name="gallery_percent_tv_padding_right">10dp</dimen>
+    <dimen name="gallery_percent_tv_padding_bottom">10dp</dimen>
+    <dimen name="gallery_desc_height">60dp</dimen>
+
+    <dimen name="gallery_percent_tv_font_size">12dp</dimen>
+    <!--leader page-->
+    <dimen name="tab_index_padding">8dp</dimen>
+
+    <!--used in list-->
+    <dimen name="list_view_offset_for_center_in_parent">24dp</dimen>
+    <dimen name="list_item_image_size">48dp</dimen>
+    <dimen name="list_item_cloud_page_udpate_size">128dp</dimen>
+    <dimen name="list_item_image_fetch_size">56dp</dimen>
+    <dimen name="list_item_height">56dp</dimen>
+    <dimen name="cloud_list_item_height">64dp</dimen>
+    <dimen name="create_lib_secrect_security_item_height">72dp</dimen>
+    <dimen name="message_item_image_size">32dp</dimen>
+    <dimen name="history_item_image_size">32dp</dimen>
+
+    <!--used int titlebar-->
+    <dimen name="actionbar_offset_for_center">12dp</dimen>
+    <dimen name="title_bar_funciton_btn_width">64dp</dimen>
+    <dimen name="content_list_search_bar_height">28dp</dimen>
+    <dimen name="search_edit_padding">8dp</dimen>
+    <dimen name="whole_search_bar_height">44dp</dimen>
+
+    <!--detail page -->
+    <dimen name="detail_grid_item_margin">12dp</dimen>
+    <dimen name="detail_grid_item_width">100dp</dimen>
+    <dimen name="grid_item_width_size">72dp</dimen>
+    <dimen name="chat_grid_item_width">48dp</dimen>
+
+    <dimen name="detail_margin_left">32dp</dimen>
+    <dimen name="detial_margin_right">20dp</dimen>
+    <dimen name="detail_item_row_margin">20dp</dimen>
+    <dimen name="detail_divider_margin_top">16dp</dimen>
+
+    <!--cloudpage tab-->
+    <dimen name="cloud_page_tab_bar_height">42dp</dimen>
+    <dimen name="update_grid_view_size">50dp</dimen>
+    <dimen name="back_btn_with">40dp</dimen>
+    <!--bottom tab-->
+    <dimen name="bottom_tab_bar_height">56dp</dimen>
+    <dimen name="bottom_add_btn_margin_left">@dimen/thick_margin</dimen>
+    <dimen name="bottom_add_btn_margin_bottom">64dp</dimen>
+    <dimen name="bottom_bitmap_padding">@dimen/thin_padding</dimen>
+
+    <!--used alert dialog-->
+    <dimen name="alert_dialog_button_height">48dp</dimen>
+    <dimen name="alert_dialog_width">300dp</dimen>
+
+    <!--top tab-->
+    <dimen name="top_tab_margin">6dp</dimen>
+
+
+    <dimen name="divider_height">1px</dimen>
+
+    <dimen name="chat_text_mini_with">200dp</dimen>
+    <dimen name="chat_file_img_size">128dp</dimen>
+    <dimen name="chat_text_max_with">280dp</dimen>
+    <dimen name="loading_more_progress_bar_height">48dp</dimen>
+
+    <dimen name="synchro_photo_widget_padding">15dp</dimen>
+    <dimen name="synchro_photo_widget_margin">20dp</dimen>
+
+    <dimen name="secret_signal_layout_margin">20dp</dimen>
+    <dimen name="secret_signal_layout_padding">10dp</dimen>
+    <dimen name="secret_signal_layout_height">180dp</dimen>
+    <dimen name="secret_signal_edit_height">45dp</dimen>
+
+    <dimen name="confirm_sign_out_corner">5dp</dimen>
+
+    <dimen name="head_img_silde_length_dimen">90dp</dimen>
+</resources>

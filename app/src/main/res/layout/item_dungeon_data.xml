@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/ll_dungeon"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:weightSum="3"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/tv_account"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:textStyle="bold"
+            android:text="rabbit0000"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/tv_targetTime"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="2017年1月1日"
+            android:textColor="@color/color2_text1"
+            android:layout_marginRight="5dp"
+            android:textStyle="italic"
+            android:gravity="right"/>
+    </LinearLayout>
+</LinearLayout>

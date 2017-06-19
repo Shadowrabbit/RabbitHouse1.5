@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="rbt.shodowrabbitshop">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".base.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.AddAccountActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"/>
+        <activity android:name=".activity.CheckAccountActivity" />
+        <activity android:name=".activity.UpdateAccountActivity"/>
+        <activity android:name=".activity.SearchAccountActivity" />
+        <activity android:name=".activity.UpdateAccountActivity2"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"/>
+        <activity android:name=".activity.CheckAccountActivity2" />
+        <activity android:name=".activity.TaskActivity" />
+        <activity android:name=".activity.AddTaskActivity" />
+        <activity android:name=".activity.CheckTaskActivity" />
+        <activity android:name=".activity.ExpeditionActivity" />
+        <activity android:name=".activity.DungeonActivity" />
+        <activity android:name=".activity.CheckExpeditionActivity" />
+        <activity android:name=".activity.AddExpeditionActivity" />
+        <activity android:name=".activity.AddDungeonActivity" />
+        <activity android:name=".activity.CheckDungeonActivity" />
+        <activity android:name=".activity.DownloadActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server">
+        <item>安卓胡德</item>
+        <item>安卓萨拉托加</item>
+        <item>安卓俾斯麦</item>
+        <item>安卓声望</item>
+        <item>安卓纳尔逊</item>
+        <item>安卓空想</item>
+        <item>安卓海伦娜</item>
+        <item>安卓突击者</item>
+        <item>安卓黎塞留</item>
+        <item>安卓贝尔法斯特</item>
+        <item>安卓埃塞克斯</item>
+        <item>安卓昆西</item>
+        <item>安卓长春</item>
+        <item>ios列克星敦</item>
+        <item>ios欧根亲王</item>
+        <item>ios提尔比茨</item>
+        <item>ios大青花鱼</item>
+        <item>ios阿拉斯加</item>
+        <item>ios皇家方舟</item>
+        <item>ios罗德尼</item>
+        <item>ios维内托</item>
+    </string-array>
+    <string-array name="dungeon_type">
+        <item>驱逐</item>
+        <item>巡洋</item>
+        <item>战列</item>
+        <item>航母</item>
+        <item>潜艇</item>
+    </string-array>
+    <string-array name="difficulty">
+        <item>简单</item>
+        <item>困难</item>
+    </string-array>
+    <string-array name="server2">
+        <item>安卓</item>
+        <item>IOS</item>
+    </string-array>
+</resources>
